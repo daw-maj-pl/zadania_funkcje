@@ -1,0 +1,11 @@
+p.is-even {
+  background-color: yellow;
+}
+
+p.is-in-range {
+  background-color: cyan;
+}
+
+p.is-passed {
+  background-color: magenta;
+}
